@@ -4,17 +4,19 @@ using System.Text.Encodings.Web;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddOrchardCore().AddTheming().AddMvc();
+builder.Services.AddOrchardCore().AddTheming().AddLiquidViews().AddMvc();
 
 var app = builder.Build();
 
 app.MapGet("/", async (HttpContext context) =>
 {
     var factory = context.RequestServices.GetRequiredService<IShapeFactory>();
-    var shape = await factory.CreateAsync("Car");
+    var carShape = await factory.CreateAsync("Car");
+    carShape.Properties["Brand"] = "Renault";
+
 
     var displayHelper = context.RequestServices.GetRequiredService<IDisplayHelper>();
-    var htmlContent = await displayHelper.ShapeExecuteAsync(shape);
+    var htmlContent = await displayHelper.ShapeExecuteAsync(carShape);
 
     context.Response.ContentType = "text/html";
     context.Response.StatusCode = 200;

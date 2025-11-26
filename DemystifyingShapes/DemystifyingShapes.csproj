@@ -5,11 +5,16 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Views\Car.liquid" />
+  </ItemGroup>
   
 
   <ItemGroup>
     <PackageReference Include="OrchardCore.Application.Targets" Version="2.2.1" />
     <PackageReference Include="OrchardCore.DisplayManagement" Version="2.2.1" />
+    <PackageReference Include="OrchardCore.DisplayManagement.Liquid" Version="2.2.1" />
   </ItemGroup>
 
 </Project>
