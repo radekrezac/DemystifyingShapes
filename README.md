@@ -97,10 +97,10 @@ This is a car @Model.Brand with @Model.Color
 @tagBuilder.RenderEndTag()
 ```
 The result is this content:
-![Rendered Car Shape](https://github.com/radekrezac/DemystifyingShapes/tree/master/images/rendered-car.jpg?raw=true)
+[Rendered Car Shape](https://github.com/radekrezac/DemystifyingShapes/tree/master/images/rendered-car.jpg?raw=true)
 
 and if we look at the HTML code, we can see the rendered shape metadata:
- ![Rendered Car Shape Source View](https://github.com/radekrezac/DemystifyingShapes/tree/master/images/rendered-car-source.jpg?raw=true)
+ [Rendered Car Shape Source View](https://github.com/radekrezac/DemystifyingShapes/tree/master/images/rendered-car-source.jpg?raw=true)
 
 Code for this part is available on Github in the branch: [Test_Shape_With_Metadata](https://github.com/radekrezac/DemystifyingShapes/tree/Test_Shape_With_Metadata)
 
