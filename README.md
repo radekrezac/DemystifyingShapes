@@ -1,3 +1,5 @@
+# Orchard Core Shapes
+
 Orchard Core doesn't render HTML directly, but instead will usually render something called a **Shape**, which is an object that represents the thing to render and has all the necessary data and metadata to render HTML.
 When rendering a Shape, Orchard Core will look for specific **templates**, passing the Shape to this template.
 Orchard Core can match with many templates for the same Shape. These potential templates are called **Alternates**.
@@ -95,10 +97,10 @@ This is a car @Model.Brand with @Model.Color
 @tagBuilder.RenderEndTag()
 ```
 The result is this content:
- [image]OC/rendered-car.jpg[/image]
- 
+![Rendered Car Shape](https://github.com/radekrezac/DemystifyingShapes/image/rendered-car.jpg?raw=true)
+
 and if we look at the HTML code, we can see the rendered shape metadata:
- [image]OC/rendered-car-source.jpg[/image]
+ ![Rendered Car Shape Source View](https://github.com/radekrezac/DemystifyingShapes/image/rendered-car-source.jpg?raw=true)
 
 Code for this part is available on Github in the branch: [Test_Shape_With_Metadata](https://github.com/radekrezac/DemystifyingShapes/tree/Test_Shape_With_Metadata)
 
