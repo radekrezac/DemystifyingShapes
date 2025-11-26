@@ -1,104 +1,336 @@
-/.vs/DemystifyingShapes.slnx/FileContentIndex/5b1fa077-f376-4305-b801-ffb37d479e56.vsidx
-/.vs/DemystifyingShapes.slnx/FileContentIndex/e626bd15-12cd-4372-97c4-fd67b2ac02a7.vsidx
-/.vs/DemystifyingShapes.slnx/FileContentIndex/feacd1d3-f1b0-459f-9c46-17181c2459c9.vsidx
-/.vs/DemystifyingShapes.slnx/v18/.suo
-/.vs/DemystifyingShapes.slnx/v18/DocumentLayout.backup.json
-/.vs/DemystifyingShapes.slnx/v18/DocumentLayout.json
-/DemystifyingShapes/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
-/DemystifyingShapes/bin/Debug/net9.0/appsettings.Development.json
-/DemystifyingShapes/bin/Debug/net9.0/appsettings.json
-/DemystifyingShapes/bin/Debug/net9.0/Castle.Core.dll
-/DemystifyingShapes/bin/Debug/net9.0/DemystifyingShapes.deps.json
-/DemystifyingShapes/bin/Debug/net9.0/DemystifyingShapes.dll
-/DemystifyingShapes/bin/Debug/net9.0/DemystifyingShapes.exe
-/DemystifyingShapes/bin/Debug/net9.0/DemystifyingShapes.pdb
-/DemystifyingShapes/bin/Debug/net9.0/DemystifyingShapes.runtimeconfig.json
-/DemystifyingShapes/bin/Debug/net9.0/DemystifyingShapes.staticwebassets.endpoints.json
-/DemystifyingShapes/bin/Debug/net9.0/Fluid.dll
-/DemystifyingShapes/bin/Debug/net9.0/Json.More.dll
-/DemystifyingShapes/bin/Debug/net9.0/JsonPath.Net.dll
-/DemystifyingShapes/bin/Debug/net9.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
-/DemystifyingShapes/bin/Debug/net9.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
-/DemystifyingShapes/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Language.dll
-/DemystifyingShapes/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
-/DemystifyingShapes/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
-/DemystifyingShapes/bin/Debug/net9.0/Microsoft.CodeAnalysis.Razor.dll
-/DemystifyingShapes/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
-/DemystifyingShapes/bin/Debug/net9.0/Microsoft.IO.RecyclableMemoryStream.dll
-/DemystifyingShapes/bin/Debug/net9.0/NCrontab.dll
-/DemystifyingShapes/bin/Debug/net9.0/NodaTime.dll
-/DemystifyingShapes/bin/Debug/net9.0/OrchardCore.Abstractions.dll
-/DemystifyingShapes/bin/Debug/net9.0/OrchardCore.Application.Targets.dll
-/DemystifyingShapes/bin/Debug/net9.0/OrchardCore.Data.Abstractions.dll
-/DemystifyingShapes/bin/Debug/net9.0/OrchardCore.DisplayManagement.Abstractions.dll
-/DemystifyingShapes/bin/Debug/net9.0/OrchardCore.DisplayManagement.dll
-/DemystifyingShapes/bin/Debug/net9.0/OrchardCore.dll
-/DemystifyingShapes/bin/Debug/net9.0/OrchardCore.Infrastructure.Abstractions.dll
-/DemystifyingShapes/bin/Debug/net9.0/OrchardCore.Liquid.Abstractions.dll
-/DemystifyingShapes/bin/Debug/net9.0/OrchardCore.Localization.Abstractions.dll
-/DemystifyingShapes/bin/Debug/net9.0/OrchardCore.Mvc.Core.dll
-/DemystifyingShapes/bin/Debug/net9.0/OrchardCore.ResourceManagement.Abstractions.dll
-/DemystifyingShapes/bin/Debug/net9.0/Parlot.dll
-/DemystifyingShapes/bin/Debug/net9.0/TimeZoneConverter.dll
-/DemystifyingShapes/bin/Debug/net9.0/ZString.dll
-/DemystifyingShapes/obj/Debug/net9.0/ref/DemystifyingShapes.dll
-/DemystifyingShapes/obj/Debug/net9.0/refint/DemystifyingShapes.dll
-/DemystifyingShapes/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
-/DemystifyingShapes/obj/Debug/net9.0/ApiEndpoints.json
-/DemystifyingShapes/obj/Debug/net9.0/apphost.exe
-/DemystifyingShapes/obj/Debug/net9.0/Demystif.279FB19B.Up2Date
-/DemystifyingShapes/obj/Debug/net9.0/DemystifyingShapes.AssemblyInfo.cs
-/DemystifyingShapes/obj/Debug/net9.0/DemystifyingShapes.AssemblyInfoInputs.cache
-/DemystifyingShapes/obj/Debug/net9.0/DemystifyingShapes.assets.cache
-/DemystifyingShapes/obj/Debug/net9.0/DemystifyingShapes.csproj.AssemblyReference.cache
-/DemystifyingShapes/obj/Debug/net9.0/DemystifyingShapes.csproj.BuildWithSkipAnalyzers
-/DemystifyingShapes/obj/Debug/net9.0/DemystifyingShapes.csproj.CoreCompileInputs.cache
-/DemystifyingShapes/obj/Debug/net9.0/DemystifyingShapes.csproj.FileListAbsolute.txt
-/DemystifyingShapes/obj/Debug/net9.0/DemystifyingShapes.dll
-/DemystifyingShapes/obj/Debug/net9.0/DemystifyingShapes.GeneratedMSBuildEditorConfig.editorconfig
-/DemystifyingShapes/obj/Debug/net9.0/DemystifyingShapes.genruntimeconfig.cache
-/DemystifyingShapes/obj/Debug/net9.0/DemystifyingShapes.GlobalUsings.g.cs
-/DemystifyingShapes/obj/Debug/net9.0/DemystifyingShapes.MvcApplicationPartsAssemblyInfo.cache
-/DemystifyingShapes/obj/Debug/net9.0/DemystifyingShapes.MvcApplicationPartsAssemblyInfo.cs
-/DemystifyingShapes/obj/Debug/net9.0/DemystifyingShapes.pdb
-/DemystifyingShapes/obj/Debug/net9.0/DemystifyingShapes.RazorAssemblyInfo.cache
-/DemystifyingShapes/obj/Debug/net9.0/DemystifyingShapes.RazorAssemblyInfo.cs
-/DemystifyingShapes/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
-/DemystifyingShapes/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
-/DemystifyingShapes/obj/Debug/net9.0/rpswa.dswa.cache.json
-/DemystifyingShapes/obj/Debug/net9.0/staticwebassets.build.endpoints.json
-/DemystifyingShapes/obj/Debug/net9.0/staticwebassets.build.json
-/DemystifyingShapes/obj/Debug/net9.0/staticwebassets.build.json.cache
-/DemystifyingShapes/obj/Debug/net9.0/staticwebassets.references.upToDateCheck.txt
-/DemystifyingShapes/obj/Debug/net9.0/staticwebassets.removed.txt
-/DemystifyingShapes/obj/Debug/net9.0/swae.build.ex.cache
-/DemystifyingShapes/obj/DemystifyingShapes.csproj.nuget.dgspec.json
-/DemystifyingShapes/obj/DemystifyingShapes.csproj.nuget.g.props
-/DemystifyingShapes/obj/DemystifyingShapes.csproj.nuget.g.targets
-/DemystifyingShapes/obj/project.assets.json
-/DemystifyingShapes/obj/project.nuget.cache
+# Ignore Visual Studio temporary files, build results, and files generated by popular Visual Studio add-ons
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 2015/2017 cache/options directory
+vs/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+builds
+*.pidb
+*.svclog
+*.scc
+
+# Chutzpah Test files
+_Chutzpah*
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# TFS 2012 Local Workspace
+$tf/
+
+# Guidance Automation Toolkit
+*.gpState
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.DotSettings.user
+
+# TeamCity is a build add-in
+_TeamCity*
+
+# DotCover is a Code Coverage Tool
+*.dotCover
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+
+# NCrunch
+_NCrunch_*
+*crunch*.local.xml
+nCrunchTemp_*
+
+# MightyMoose
+*.mm.*
+AutoTest.Net/
+
+# Web workbench (sass)
+sass-cache/
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject is a documentation generator add-in
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/Html2
+DocProject/Help/html
+
+# Click-Once directory
+publish/
+
+# Publish Web Output
+*.publish.xml
+*.azurePubxml
+*.pubxml
+*.publishproj
+
+# Microsoft Azure Web App publish settings
+PublishScripts/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+
+# Microsoft Azure Build Output
+csx/
+*.build.csdef
+
+# Microsoft Azure Emulator
+ecf/
+rcf/
+
+# Windows Store app package directories and files
+AppPackages/
+BundleArtifacts/
+Package.StoreAssociation.xml
+_pkginfo.txt
+*.appx
+*.appxbundle
+*.appxupload
+
+# Visual Studio cache files
+*.cache
+!*.cache/
+
+# Others
+ClientBin/
+~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+
+# Including strong name files can present a security risk
+#*.snk
+
+# RIA/Silverlight projects
+Generated_Code/
+
+# Backup & report files from converting an old project file
+# to a newer Visual Studio version. Backup files are not needed,
+# because we have git ;-)
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+ServiceFabricBackup/
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Business Intelligence projects
+*.rdl.data
+*.bim.layout
+*.bim_*.settings
+*.rptproj.rsuser
+*-Backup.rdl
+*-Backup(0-9).rdl
+*-Backup(0-9)(0-9).rdl
+
+# Microsoft Fakes
+FakesAssemblies/
+
+# GhostDoc plugin setting file
+*.GhostDoc.xml
+
+# Node.js Tools for Visual Studio
+ntvs_analysis.dat
+node_modules/
+
+# Visual Studio 6 build log
+*.plg
+
+# Visual Studio 6 workspace options file
+*.opt
+
+# Visual Studio 6 auto-generated workspace file
+*.vbw
+
+# Visual Studio LightSwitch build output
+**/*.HTMLClient/GeneratedArtifacts
+**/*.DesktopClient/GeneratedArtifacts
+**/*.DesktopClient/ModelManifest.xml
+**/*.Server/GeneratedArtifacts
+**/*.Server/ModelManifest.xml
+_Pvt_Extensions
+
+# Paket dependency manager
+paket/paket.exe
+paket-files/
+
+# FAKE - F# Make
+fake/
+
+# CodeRush personal settings
+cr/personal
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__/
+*.pyc
+
+# Cake - Uncomment if you are using it
+# tools/**
+# !tools/packages.config
+
+# Tabs Studio
+*.tss
+
+# Telerik's JustMock configuration file
+*.jmconfig
+
+# BizTalk build output
+*.btp.cs
+*.btm.cs
+*.odx.cs
+*.xsd.cs
+
+# OpenCover UI analysis results
+OpenCover/
+
+# Azure Stream Analytics local run output
+ASALocalRun/
+
+# MSBuild Binary and Structured Log
+*.binlog
+
+# NVidia Nsight GPU debugger configuration file
+*.nvuser
+
+# MFractors (Xamarin productivity tool) working folder
+mfractor/
+
+# Local History for Visual Studio
+localhistory/
+
+# Visual Studio History (VSHistory) files
+vshistory/
+
+# BeatPulse healthcheck temp database
+healthchecksdb
+
+# Backup folder for Package Reference Convert tool in Visual Studio 2017
+MigrationBackup/
+
+# Ionide (cross platform F# VS Code tools) working folder
+ionide/
+
+# Fody - auto-generated XML schema
+FodyWeavers.xsd
+
+# VS Code files for those working on multiple tools
+vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+history/
+
+# Windows Installer files from build outputs
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# JetBrains Rider
+*.sln.iml
+/.vs/DemystifyingShapes.slnx/FileContentIndex
+/.vs/DemystifyingShapes.slnx/v18
