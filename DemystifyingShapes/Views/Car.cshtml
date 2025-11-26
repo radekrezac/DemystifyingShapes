@@ -1,0 +1,11 @@
+﻿@using OrchardCore.DisplayManagement;
+@model Car
+
+@{
+    var shape = Model as IShape;
+    var tagBuilder = shape.GetTagBuilder();
+}
+
+@tagBuilder.RenderStartTag()
+This is a car @Model.Brand with @Model.Color
+@tagBuilder.RenderEndTag()

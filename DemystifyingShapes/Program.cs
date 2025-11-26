@@ -11,12 +11,16 @@ var app = builder.Build();
 app.MapGet("/", async (HttpContext context) =>
 {
     var factory = context.RequestServices.GetRequiredService<IShapeFactory>();
-    var carShape = await factory.CreateAsync("Car");
-    carShape.Properties["Brand"] = "Renault";
+    var shape = await factory.CreateAsync<Car>("Car", c => { c.Brand = "Renault"; c.Color = "Red";});
 
+    shape.Id = "my-renault";
+    shape.TagName = "h3";
+    shape.Classes.Add("car");
+    shape.Classes.Add("brand-renault");
+    shape.Attributes.Add("data-brand", "renault");
 
     var displayHelper = context.RequestServices.GetRequiredService<IDisplayHelper>();
-    var htmlContent = await displayHelper.ShapeExecuteAsync(carShape);
+    var htmlContent = await displayHelper.ShapeExecuteAsync(shape);
 
     context.Response.ContentType = "text/html";
     context.Response.StatusCode = 200;
@@ -29,3 +33,9 @@ app.MapGet("/", async (HttpContext context) =>
 app.UseOrchardCore();
 
 app.Run();
+
+public class Car
+{
+    public string? Brand { get; set; }
+    public string? Color { get; set; }
+}
